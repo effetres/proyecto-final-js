@@ -1,0 +1,42 @@
+#contenedor-productos{
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 1rem;
+
+}
+
+.producto {
+    
+    border: 1px solid black;
+    padding: 1rem;
+    margin: 1rem;
+
+
+}
+.boton-agregar {
+    color: white;
+    background-color: blue;
+    border: 1px solid black;
+    padding: 0.3rem;
+    font-size: 100;
+    margin: 1px;
+}
+.boton-ver{
+    color: white;
+    background-color: blue;
+    border: 1px solid black;
+    padding: 0.3rem;
+    font-size: 100;
+    margin: 1px;
+
+
+}
+.boton-volver {
+    color: white;
+    background-color: blue;
+    border: 1px solid black;
+    padding: 0.3rem;
+    font-size: 100;
+    margin: 1px;
+
+}
